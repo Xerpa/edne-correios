@@ -94,3 +94,6 @@ O comando abaixo irá exportar todos os CEPs para esse formato.
 ```shell
 bundle exec rake import:join
 ```
+
+
+tst
